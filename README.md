@@ -1,4 +1,4 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheRedOperator/armoury/assets/82178978/9959b452-16b6-4363-adbe-3a6c266f1afe">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheRedOperator/armoury/assets/82178978/15765613-d2dd-4bb3-a1e7-771b105844e0">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/TheRedOperator/armoury/assets/82178978/9959b452-16b6-4363-adbe-3a6c266f1afe">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheRedOperator/armory/assets/82178978/38ee816c-7f92-41f0-8d59-3c3d961eb858">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheRedOperator/armory/assets/82178978/79e58cd4-778f-4a0e-a6d2-466f5eda0fb5">
+  <img alt="Modes." src="https://github.com/TheRedOperator/armory/assets/82178978/38ee816c-7f92-41f0-8d59-3c3d961eb858">
